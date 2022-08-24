@@ -1,5 +1,7 @@
 # Tasques d'Sprint 1
 
+Aquests exercicis els he fet amb el programa MySQLWorkBench
+
 ## Exercici 1: A partir dels documents adjunts (estructura i dades), crea una base de dades amb MySQL. Mostra les característiques principals de l'esquema creat i explica les diferentes taules i variables que hi ha:
 
 A continuació mostro les taules resultants:
