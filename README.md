@@ -1,4 +1,4 @@
-# Tasques d'itinerari 1
+# Tasques d'Sprint 1
 
 ## Exercici 1: A partir dels documents adjunts (estructura i dades), crea una base de dades amb MySQL. Mostra les característiques principals de l'esquema creat i explica les diferentes taules i variables que hi ha:
 
